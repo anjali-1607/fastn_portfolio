@@ -91,7 +91,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:anjalirajpoot1603@gmail.com
+link: mailto:YOUR_EMAIL_ADDRESS
 
 -- button.primary:
 title: Schedule a Meeting
@@ -108,15 +108,15 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/anjali-paderiya-9ab4a5224/
+link: YOUR_LINKEDIN_USERNAME
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/AnjaliR160903
+link: YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/anjali-1607
+link: YOUR_GITHUB_USERNAME
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
